@@ -1,4 +1,4 @@
-# Neurofinder + Docker
+# Neurofinder Docker image
 
 This repo contains a Docker file and example notebooks for the environment used in the [Neurofinder](http://neurofinder.codeneuro.org) challenge. The environment includes scientific Python, Spark, Thunder, and the IPython notebook.
 
