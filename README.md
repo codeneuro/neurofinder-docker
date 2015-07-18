@@ -4,9 +4,9 @@ This repo contains the Dockerfile and example notebooks for the environment used
 
 This is mainly provided as a reference image.
 
-If you want to explore this environment interactively, we recommend using our [notebook](http://notebooks.codeneuro.org) service.
+To explore this environment interactively, we recommend using our [notebook](http://notebooks.codeneuro.org) service.
 
-If you want to do local algorithm development, we recommend setting up a local Python environment with [Anaconda](https://store.continuum.io/cshop/anaconda/).
+To do local algorithm development, we recommend setting up a local Python environment with [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 ## Running
 
