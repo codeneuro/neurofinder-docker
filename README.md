@@ -16,6 +16,6 @@ To run this image, if you are new to Docker, follow these instructions to get se
 
 - Launch the `boot2docker` application from your `Applications` folder
 
-- Type docker run -i -t -p 8888:8888 codeneuro/neurofinder
+- Type `docker run -i -t -p 8888:8888 codeneuro/neurofinder`
 
 - Point a web browser to http://192.168.59.103:8888/
