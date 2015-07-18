@@ -18,4 +18,4 @@ To run this image, if you are new to Docker, follow these instructions to get se
 
 - Type `docker run -i -t -p 8888:8888 codeneuro/neurofinder`
 
-- Point a web browser to http://192.168.59.103:8888/
+- Point a web browser to `http://192.168.59.103:8888/`
